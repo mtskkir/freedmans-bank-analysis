@@ -15,7 +15,8 @@
 ### Визаулизация
 Пульс Банка
 Динамика баланса банка 1872-1874
-<img width="881" height="458" alt="image" src="https://github.com/user-attachments/assets/7eee2fcc-f3cc-4244-aa39-5a2a78a7385a" />
+<img width="870" height="443" alt="image" src="https://github.com/user-attachments/assets/611fa965-3204-4ef6-bce2-6fa1d58ebf9e" />
+
 
 ### Как запустить
 1. Clone the repo
